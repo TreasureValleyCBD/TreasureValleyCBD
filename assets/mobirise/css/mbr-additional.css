@@ -2762,7 +2762,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qXzfXHtupR {
-  background-image: url("../../../assets/images/img-4462-2000x2667.jpg");
+  background-image: url("../../../assets/images/img-4463-2000x2667.jpg");
 }
 .cid-qXzfXHtupR .media-content {
   word-wrap: break-word;
@@ -4260,14 +4260,9 @@ body {
 .cid-qYdYCgAbVi .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qYenMxQJw1 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/starts-2000x1125.jpg");
-}
 .cid-qYemLIxHd9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 135px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/starts-2000x1125.jpg");
 }
 .cid-qYemLIxHd9 h4 {
@@ -4308,6 +4303,11 @@ body {
 .cid-qYemLIxHd9 .card-box .mbr-section-btn a {
   margin-top: 1rem;
   margin-bottom: 0;
+}
+.cid-qYenMxQJw1 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/starts-2000x1125.jpg");
 }
 .cid-qXihJAiduS .navbar {
   padding: .5rem 0;
