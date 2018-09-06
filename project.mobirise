@@ -4611,13 +4611,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/treasure-valey-cb-3-816x1056.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/treasure-valey-cb-3-816x1056-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/treasure-valey-cb-4-816x1056.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/treasure-valey-cb-4-816x1056-800x1035.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -4630,7 +4630,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
