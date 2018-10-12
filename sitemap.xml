@@ -12,9 +12,6 @@
 		<loc>http://treasurevalleycbd.com/subscribe.html</loc>
 	</url>
 	<url>
-		<loc>http://treasurevalleycbd.com/Store.html</loc>
-	</url>
-	<url>
 		<loc>http://treasurevalleycbd.com/newsletter.html</loc>
 	</url>
 	<url>
@@ -31,5 +28,8 @@
 	</url>
 	<url>
 		<loc>http://treasurevalleycbd.com/contact.html</loc>
+	</url>
+	<url>
+		<loc>http://treasurevalleycbd.com/page10.html</loc>
 	</url>
 </urlset>
