@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Treasure Valley CBD Website",
-    "currentPage": "shop.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -111,7 +111,8 @@
       "settings": {
         "meta_descr": "Tired of making money for someone else and looking for a new challenge, we moved out to the family farm and invested in hemp seed. Our Three-Acre plot of feminized Hemp is off to a great start and we are on the way to providing high quality CBD products at a great price. We will sell CBD buds as well as activated oils from the crop that is due for harvest this fall. \n\nODA Licensed - Grown locally in the Treasure Valley \nTreasure Valley CBD invites you to check out some of the most well cared for feminized Hemp plants grown by our family and coming soon to you. These beautiful ladies will have a high CBD content and will be below the <.3% THC legal requirement for sale.  We aim to show the same care and meticulous attention to detail that you would see with Marijuana flower to ensure a pleasurable end user experience. ",
         "title": "About",
-        "order": 12
+        "order": 12,
+        "header_custom": ""
       },
       "components": [
         {
@@ -635,9 +636,10 @@
     },
     "Photos.html": {
       "settings": {
-        "meta_descr": "Check out our Instagram that has frequent updates of our progress from seedling to harvest. Excellent pictures and creations courtesy of our own staff. ",
+        "meta_descr": "Check out our Instagram that has frequent updates of our progress from seedling to harvest. Pictures and creations courtesy of our own staff. ",
         "title": "Photos",
-        "order": 11
+        "order": 11,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Check out our Instagram that has frequent updates of our progress from seedling to harvest. Pictures and creations courtesy of our own staff. \" />\n<meta name=\"keywords\" content=\"Treasure Valley CBD, Hemp flower, buy hemp online, legal CBD, CBD flower, CBD oil, industrial hemp, CBD, cannabidiols, endocannabinoids, subscribe, shop, photos, buy CBD, buy CBD online, Treasure Valley Instagram, Treasure Valley CBD Instagram, TV CBD Instagram\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>Treasure Valley CBD - Photos</title>\n<!-- Treasure Valley CBD, CBD, Hemp -->\n"
       },
       "components": [
         {
@@ -1729,9 +1731,10 @@
     },
     "newsletter.html": {
       "settings": {
-        "meta_descr": "Newsletter for Treasure Valley CBD",
+        "meta_descr": "Check out the latest news from Treasure Valley CBD! Our newsletter is randomly updated when something cool happens or we have a sale, subscribe for email updates!",
         "title": "Newsletter",
-        "order": 6
+        "order": 6,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Treasure Valley CBD invites you to check out some of the most well cared for feminized Hemp plants grown by our family - shipped from our farm directly to you!\" />\n<meta name=\"keywords\" content=\"Treasure Valley CBD, Hemp flower, buy hemp online, legal CBD, CBD flower, CBD oil, industrial hemp, CBD, cannabidiols, endocannabinoids, subscribe, shop, photos, buy CBD, buy CBD online\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>Treasure Valley CBD Newsletter</title>\n<!-- Treasure Valley CBD, CBD, Hemp -->\n"
       },
       "components": [
         {
@@ -2480,9 +2483,10 @@
     },
     "topsecret420.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "",
         "title": "TopSecret420",
-        "order": 9
+        "order": 9,
+        "header_custom": ""
       },
       "components": [
         {
@@ -3764,8 +3768,8 @@
     "landing.html": {
       "settings": {
         "title": "LandingPage",
-        "meta_descr": "Treasure Valley CBD invites you to check out some of the most well cared for feminized Hemp plants grown by our family and coming soon to you. These beautiful ladies will have a high CBD content and will be below the <.3% THC legal requirement for sale.  We aim to show the same care and meticulous attention to detail that you would see with Marijuana flower to ensure a pleasurable end user experience. ",
-        "header_custom": "",
+        "meta_descr": "Treasure Valley CBD invites you to check out some of the most well cared for feminized Hemp plants grown by our family - shipped from our farm directly to you! Our strains contain high CBD content  between 13-19% and are all well below the <.3% THC legal requirement for industrial hemp. ",
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Treasure Valley CBD invites you to check out some of the most well cared for feminized Hemp plants grown by our family - shipped from our farm directly to you!\" />\n<meta name=\"keywords\" content=\"Treasure Valley CBD, Hemp flower, buy hemp online, legal CBD, CBD flower, CBD oil, industrial hemp, CBD, cannabidiols, endocannabinoids, subscribe, shop, photos, buy CBD, buy CBD online\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>Treasure Valley CBD - Home</title>\n<!-- Treasure Valley CBD, CBD, Hemp -->\n",
         "footer_custom": "",
         "html_before": "",
         "order": 5
@@ -4316,7 +4320,8 @@
       "settings": {
         "meta_descr": "Supervised Use for Minors - CBD is recognized by some doctors as a safe and effective treatment for certain chronic illnesses. We prefer to sell our products to consenting adults that can supervise appropriate dosages to minors. \n\nBy clicking \"ENTER\" you are verifying you are 18 or older.",
         "title": "Under 18",
-        "order": 4
+        "order": 4,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Supervised Use for Minors - CBD is recognized by some doctors as a safe and effective treatment for certain chronic illnesses. By clicking \"ENTER\" you are verifying you are 18 or older.\" />\n<meta name=\"keywords\" content=\"Treasure Valley CBD, Privacy Policy, Disclaimer, Keeping it legit, TV CBD, Legal, Compliant, Under 18\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>Treasure Valley CBD Privacy Policy</title>\n<!--  -->\n"
       },
       "components": [
         {
@@ -5541,7 +5546,8 @@
       "settings": {
         "meta_descr": "Disclaimers\nTreasure Valley CBD offers Federally legal industrial hemp that is ODA Licensed and complies to Section 7606 of the 2014 US Farm Bill. Void where Prohibited By Law.\n \nSHIPPING\nTreasure Valley CBD orders are sent through USPS with priority and shipping options as specified by the customer. We use plain, vacuum sealed packaging to keep our orders fresh and discreet. We cannot be held responsible for any order that is stolen outside the customers' address, lost in transit, not delivered or mistakenly seized.\n\n All orders also include a \"Notice to Law Enforcement\" with a copy of the test results for that corresponding batch proving that the product is indeed industrial hemp. We DO NOT include an invoice inside the package.\n \nFOOD AND DRUG ADMINISTRATION (FDA) DISCLOSURE:\nNone of the products contained herein have been evaluated by the FDA and are not intended to diagnose, treat or cure any disease. Always check with a physician before trying any new dietary supplement, medicinal herb or botanical extract.\n \n**I understand the statements regarding these products have not been evaluated by the Food and Drug Administration. This Product is not intended to diagnose, treat, cure or prevent any disease. Results from products may vary. These items are not intended to cure, treat or prevent any diseases.**\n\nLiability \n\nTreasure Valley CBD Ships throughout the U.S., but we encourage all of our customers to do their down research into their individual state's and county's laws. If we find a problem with sending a shipment to your area we may cancel your order or contact you for further processing information.\nBy purchasing any product you are assuming the risk of any and all liabilities, losses, damages, and expenses, including reasonable attorneys’ fees (collectively, “Claims”) arising from or growing out of any acts or omissions you commit, including but not limited to, violation of any applicable law, regulation, or order.",
         "title": "Disclaimer",
-        "order": 3
+        "order": 3,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Treasure Valley CBD offers Federally legal industrial hemp that is ODA Licensed and complies to Section 7606 of the 2014 US Farm Bill. Void where Prohibited By Law. Visit our disclaimer page for more.\" />\n<meta name=\"keywords\" content=\"Treasure Valley CBD, Privacy Policy, Disclaimer, Keeping it legit, TV CBD, Section 7606, 2014 Farm Bill, ODA licensed, Legal, Compliant\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>Treasure Valley CBD Privacy Policy</title>\n<!--  -->\n"
       },
       "components": [
         {
@@ -6058,9 +6064,10 @@
     },
     "shop.html": {
       "settings": {
-        "meta_descr": "Treasure Valley CBD invites you to check out some of the most well cared for feminized Hemp plants grown by our family and coming soon to you. These beautiful ladies will have a high CBD content and will be below the <.3% THC legal requirement for sale.  Check out our selection of 4 awesome strains today!",
+        "meta_descr": "Treasure Valley CBD invites you to check out some of the most well cared for feminized Hemp plants grown by our family and coming soon to you. These beautiful ladies have a high CBD content and will be below the <.3% THC legal requirement for sale.  Check out our selection of 4 awesome strains today!",
         "title": "Shop",
-        "order": 2
+        "order": 2,
+        "header_custom": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional //EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\"><head>\n    <!--[if gte mso 9]><xml>\n     <o:OfficeDocumentSettings>\n      <o:AllowPNG/>\n      <o:PixelsPerInch>96</o:PixelsPerInch>\n     </o:OfficeDocumentSettings>\n    </xml><![endif]-->\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width\">\n    <!--[if !mso]><!--><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><!--<![endif]-->\n    <title></title>\n    \n    \n    <style type=\"text/css\" id=\"media-query\">\n      body {\n  margin: 0;\n  padding: 0; }\n\ntable, tr, td {\n  vertical-align: top;\n  border-collapse: collapse; }\n\n.ie-browser table, .mso-container table {\n  table-layout: fixed; }\n\n* {\n  line-height: inherit; }\n\na[x-apple-data-detectors=true] {\n  color: inherit !important;\n  text-decoration: none !important; }\n\n[owa] .img-container div, [owa] .img-container button {\n  display: block !important; }\n\n[owa] .fullwidth button {\n  width: 100% !important; }\n\n[owa] .block-grid .col {\n  display: table-cell;\n  float: none !important;\n  vertical-align: top; }\n\n.ie-browser .num12, .ie-browser .block-grid, [owa] .num12, [owa] .block-grid {\n  width: 500px !important; }\n\n.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {\n  line-height: 100%; }\n\n.ie-browser .mixed-two-up .num4, [owa] .mixed-two-up .num4 {\n  width: 164px !important; }\n\n.ie-browser .mixed-two-up .num8, [owa] .mixed-two-up .num8 {\n  width: 328px !important; }\n\n.ie-browser .block-grid.two-up .col, [owa] .block-grid.two-up .col {\n  width: 250px !important; }\n\n.ie-browser .block-grid.three-up .col, [owa] .block-grid.three-up .col {\n  width: 166px !important; }\n\n.ie-browser .block-grid.four-up .col, [owa] .block-grid.four-up .col {\n  width: 125px !important; }\n\n.ie-browser .block-grid.five-up .col, [owa] .block-grid.five-up .col {\n  width: 100px !important; }\n\n.ie-browser .block-grid.six-up .col, [owa] .block-grid.six-up .col {\n  width: 83px !important; }\n\n.ie-browser .block-grid.seven-up .col, [owa] .block-grid.seven-up .col {\n  width: 71px !important; }\n\n.ie-browser .block-grid.eight-up .col, [owa] .block-grid.eight-up .col {\n  width: 62px !important; }\n\n.ie-browser .block-grid.nine-up .col, [owa] .block-grid.nine-up .col {\n  width: 55px !important; }\n\n.ie-browser .block-grid.ten-up .col, [owa] .block-grid.ten-up .col {\n  width: 50px !important; }\n\n.ie-browser .block-grid.eleven-up .col, [owa] .block-grid.eleven-up .col {\n  width: 45px !important; }\n\n.ie-browser .block-grid.twelve-up .col, [owa] .block-grid.twelve-up .col {\n  width: 41px !important; }\n\n@media only screen and (min-width: 520px) {\n  .block-grid {\n    width: 500px !important; }\n  .block-grid .col {\n    vertical-align: top; }\n    .block-grid .col.num12 {\n      width: 500px !important; }\n  .block-grid.mixed-two-up .col.num4 {\n    width: 164px !important; }\n  .block-grid.mixed-two-up .col.num8 {\n    width: 328px !important; }\n  .block-grid.two-up .col {\n    width: 250px !important; }\n  .block-grid.three-up .col {\n    width: 166px !important; }\n  .block-grid.four-up .col {\n    width: 125px !important; }\n  .block-grid.five-up .col {\n    width: 100px !important; }\n  .block-grid.six-up .col {\n    width: 83px !important; }\n  .block-grid.seven-up .col {\n    width: 71px !important; }\n  .block-grid.eight-up .col {\n    width: 62px !important; }\n  .block-grid.nine-up .col {\n    width: 55px !important; }\n  .block-grid.ten-up .col {\n    width: 50px !important; }\n  .block-grid.eleven-up .col {\n    width: 45px !important; }\n  .block-grid.twelve-up .col {\n    width: 41px !important; } }\n\n@media (max-width: 520px) {\n  .block-grid, .col {\n    min-width: 320px !important;\n    max-width: 100% !important;\n    display: block !important; }\n  .block-grid {\n    width: calc(100% - 40px) !important; }\n  .col {\n    width: 100% !important; }\n    .col > div {\n      margin: 0 auto; }\n  img.fullwidth, img.fullwidthOnMobile {\n    max-width: 100% !important; }\n  .no-stack .col {\n    min-width: 0 !important;\n    display: table-cell !important; }\n  .no-stack.two-up .col {\n    width: 50% !important; }\n  .no-stack.mixed-two-up .col.num4 {\n    width: 33% !important; }\n  .no-stack.mixed-two-up .col.num8 {\n    width: 66% !important; }\n  .no-stack.three-up .col.num4 {\n    width: 33% !important; }\n  .no-stack.four-up .col.num3 {\n    width: 25% !important; }\n  .mobile_hide {\n    min-height: 0px;\n    max-height: 0px;\n    max-width: 0px;\n    display: none;\n    overflow: hidden;\n    font-size: 0px; } }\n\n    </style>\n</head>\n<body class=\"clean-body\" style=\"margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #FFFFFF\">\n  <style type=\"text/css\" id=\"media-query-bodytag\">\n    @media (max-width: 520px) {\n      .block-grid {\n        min-width: 320px!important;\n        max-width: 100%!important;\n        width: 100%!important;\n        display: block!important;\n      }\n\n      .col {\n        min-width: 320px!important;\n        max-width: 100%!important;\n        width: 100%!important;\n        display: block!important;\n      }\n\n        .col > div {\n          margin: 0 auto;\n        }\n\n      img.fullwidth {\n        max-width: 100%!important;\n      }\n\t\t\timg.fullwidthOnMobile {\n        max-width: 100%!important;\n      }\n      .no-stack .col {\n\t\t\t\tmin-width: 0!important;\n\t\t\t\tdisplay: table-cell!important;\n\t\t\t}\n\t\t\t.no-stack.two-up .col {\n\t\t\t\twidth: 50%!important;\n\t\t\t}\n\t\t\t.no-stack.mixed-two-up .col.num4 {\n\t\t\t\twidth: 33%!important;\n\t\t\t}\n\t\t\t.no-stack.mixed-two-up .col.num8 {\n\t\t\t\twidth: 66%!important;\n\t\t\t}\n\t\t\t.no-stack.three-up .col.num4 {\n\t\t\t\twidth: 33%!important;\n\t\t\t}\n\t\t\t.no-stack.four-up .col.num3 {\n\t\t\t\twidth: 25%!important;\n\t\t\t}\n      .mobile_hide {\n        min-height: 0px!important;\n        max-height: 0px!important;\n        max-width: 0px!important;\n        display: none!important;\n        overflow: hidden!important;\n        font-size: 0px!important;\n      }\n    }\n  </style>\n  <!--[if IE]><div class=\"ie-browser\"><![endif]-->\n  <!--[if mso]><div class=\"mso-container\"><![endif]-->\n  <table class=\"nl-container\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #FFFFFF;width: 100%\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t<tr style=\"vertical-align: top\">\n\t\t<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\">\n    <!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td align=\"center\" style=\"background-color: #FFFFFF;\"><![endif]-->\n\n    <div style=\"background-color:transparent;\">\n      <div style=\"Margin: 0 auto;min-width: 320px;max-width: 500px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;\" class=\"block-grid \">\n        <div style=\"border-collapse: collapse;display: table;width: 100%;background-color:transparent;\">\n          <!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"background-color:transparent;\" align=\"center\"><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"width: 500px;\"><tr class=\"layout-full-width\" style=\"background-color:transparent;\"><![endif]-->\n\n              <!--[if (mso)|(IE)]><td align=\"center\" width=\"500\" style=\" width:500px; padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;\" valign=\"top\"><![endif]-->\n            <div class=\"col num12\" style=\"min-width: 320px;max-width: 500px;display: table-cell;vertical-align: top;\">\n              <div style=\"background-color: transparent; width: 100% !important;\">\n              <!--[if (!mso)&(!IE)]><!--><div style=\"border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;\"><!--<![endif]-->\n\n                  \n                    <div align=\"center\" class=\"img-container center  autowidth  fullwidth \" style=\"padding-right: 0px;  padding-left: 0px;\">\n<!--[if mso]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr style=\"line-height:0px;line-height:0px;\"><td style=\"padding-right: 0px; padding-left: 0px;\" align=\"center\"><![endif]-->\n  <a href=\"treasurevalleyfarm.com/shop\" target=\"_blank\">\n    <img class=\"center  autowidth  fullwidth\" align=\"center\" border=\"0\" src=\"https://d15k2d11r6t6rl.cloudfront.net/public/users/BeeFree/beefree-70pn2q6ws5o/TVCBD%20Store.png\" alt=\"Image\" title=\"Image\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;width: 100%;max-width: 500px\" width=\"500\">\n  </a>\n<!--[if mso]></td></tr></table><![endif]-->\n</div>\n\n                  \n              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n              </div>\n            </div>\n          <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->\n        </div>\n      </div>\n    </div>\n   <!--[if (mso)|(IE)]></td></tr></table><![endif]-->\n\t\t</td>\n  </tr>\n  </tbody>\n  </table>\n  <!--[if (mso)|(IE)]></div><![endif]-->\n\n\n</body></html>"
       },
       "components": [
         {
@@ -6504,9 +6511,10 @@
     },
     "privacy.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Treasure Valley CBD respects our users privacy and will never share information with a 3rd party. Read our privacy policy for more information on what type of information we collect and why. ",
         "title": "Privacy",
-        "order": 1
+        "order": 1,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Treasure Valley CBD respects our users privacy and will never share information with a 3rd party. Read our privacy policy for more information on what type of information we collect and why. \" />\n<meta name=\"keywords\" content=\"Treasure Valley CBD, Privacy Policy, Disclaimer, Keeping it legit, TV CBD\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>Treasure Valley CBD Privacy Policy</title>\n<!--  -->\n"
       },
       "components": [
         {
