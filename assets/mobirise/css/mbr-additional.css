@@ -2816,12 +2816,37 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/picsart-09-11-12.08.19-1722x1080.jpg");
 }
+.cid-r6TGjBznW4 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #2e2e2e;
+}
+.cid-r6TGjBznW4 .image-block {
+  margin: auto;
+}
+.cid-r6TGjBznW4 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r6TGjBznW4 figcaption {
+  position: relative;
+}
+.cid-r6TGjBznW4 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r6TGjBznW4 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-r4UKzXkX34 {
-  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #2e2e2e;
 }
 .cid-r4UKzXkX34 .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-r4UKzXkX34 .mbr-figure {
   margin: 0 auto;
@@ -2840,11 +2865,12 @@ body {
   }
 }
 .cid-r4UL2MIeof {
-  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #2e2e2e;
 }
 .cid-r4UL2MIeof .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-r4UL2MIeof .mbr-figure {
   margin: 0 auto;
@@ -2863,11 +2889,12 @@ body {
   }
 }
 .cid-r4UL38epPf {
-  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #2e2e2e;
 }
 .cid-r4UL38epPf .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-r4UL38epPf .mbr-figure {
   margin: 0 auto;
