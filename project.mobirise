@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Treasure Valley CBD Website",
-    "currentPage": "About.html",
+    "currentPage": "topsecret420.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -59,7 +59,7 @@
     "uniqCompNum": 112,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/tvcbdfavicon-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/picsart-09-08-05.48.39-01-01-01-128x128.png",
     "noImageResize": "",
     "google-analytics": "<!-- made by www.metatags.org -->\r\n<meta name=\"description\" content=\"At Treasure Valley CBD we grow and sell 100% legal Industrial Hemp Flowers from Oregon CBD genetics and licensed by the ODA. Our High CBD Hemp Flower contains LOQ Δ9-THC (less than the legal limit for industrial hemp) and boasts up to 19.7% CBDa in our \"Elektra\" strain. \r\n\r\nVisit our shop to buy legal high CBD Hemp Flowers, Pre-Rolls, Trim and Bulk orders. We accept credit/debit card payments, PayPal and Cryptocurrencies in the Treasure Valley CBD Shop. We ship discreetly using heat sealed mylar bags in plain packaging with no obvious branding on the outside.\r\n\r\nTo celebrate our grand opening, our High CBD Hemp Flower is on sale! Take advantage of grams starting at $7 and Ounces starting at $90! Our aim is to provide CBD Hemp Flower that looks, smells and tastes amazing while packing a hefty serving of CBD.....\" />\r\n<meta name=\"keywords\" content=\"100% legal, Treasure Valley, Treasure Valley CBD, CBD, CBD Oil, CBD Flower, CBD Buds, Free, Organic, Local CBD, Online CBD, Order CBD Online, Legal Online CBD, Free CBD Online, Is CBD legal online, Order CBD, Hemp, Hemp Flower\" />\r\n<meta name=\"author\" content=\"metatags generator\">\r\n<meta name=\"robots\" content=\"index, follow\">\r\n<meta name=\"revisit-after\" content=\"2 month\">\r\n<title>Treasure Valley CBD - 100% Legal CBD Flower and Oil</title>\r\n<!-- Treasure Valley CBD, Order CBD Online, CBD -->\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-125642431-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-125642431-1');\r\n</script>",
     "siteUrl": "https://treasurevalleyfarm.com",
@@ -3172,7 +3172,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -3186,6 +3186,19 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tvcbdsignature-500x500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tvcbdsignature-500x500-500x500.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           }
