@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Treasure Valley CBD Website",
-    "currentPage": "About.html",
+    "currentPage": "topsecret420.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3214,6 +3214,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/tvcbdsignature-500x500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tvcbdsignature-500x500-500x500.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tvcbdnewsletter3-4-816x1056.png",
+                "thumb": "@PROJECT_PATH@/assets/images/tvcbdnewsletter3-4-816x1056-800x1035.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -7081,15 +7094,15 @@
           "_sourceTheme": "mobirise4",
           "_cid": "r6YLmvUbTz",
           "_anchor": "menu1-31",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "menu",
-          "_params": {},
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?14467002&data_platform=code&data_date=2018-10-24\" charset=\"utf-8\"></script>",
             "<script type=\"text/javascript\">Ecwid.init();</script>"
-          ]
+          ],
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
         },
         {
           "_styles": {
