@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Treasure Valley CBD Website",
-    "currentPage": "About.html",
+    "currentPage": "topsecret420.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -56,7 +56,7 @@
         "url": "https://fonts.googleapis.com/css?family=Arima+Madurai:100,200,300,400,500,700,800,900"
       }
     ],
-    "uniqCompNum": 116,
+    "uniqCompNum": 117,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/picsart-09-08-05.48.39-01-01-01-128x128.png",
@@ -2964,6 +2964,20 @@
               }
             ]
           }
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<img id=\"Image-Maps-Com-image-maps-2018-10-28-150911\" src=\"https://treasurevalleyfarm.com/assets/images/tvcbdnewsletter3-4-816x1056.png\" border=\"0\" width=\"816\" height=\"1056\" orgwidth=\"816\" orgheight=\"1056\" usemap=\"#image-maps-2018-10-28-150911\" alt=\"\">\n<map name=\"image-maps-2018-10-28-150911\" id=\"ImageMapsCom-image-maps-2018-10-28-150911\">\n<area alt=\"\" title=\"Shop\" href=\"https://treasurevalleyfarm.com/shop\" shape=\"rect\" coords=\"250,381,392,425\" style=\"outline:none;\" target=\"_self\">\n<area alt=\"\" title=\"hempmaster review\" href=\"https://youtu.be/5ciS7kr-q8k\" shape=\"rect\" coords=\"429,380,568,424\" style=\"outline:none;\" target=\"_self\">\n<area alt=\"\" title=\"Sampler Pack\" href=\"https://treasurevalleyfarm.com/shop#!/Sampler-Pack/p/120051414/category=0\" shape=\"rect\" coords=\"149,585,390,829\" style=\"outline:none;\" target=\"_self\">\n<area alt=\"\" title=\"CBD Flower and More\" href=\"https://treasurevalleyfarm.com/shop#!/Flower-Pre-Rolls-Bulk-and-Trim/c/31639302/offset=0&amp;sort=normal\" shape=\"rect\" coords=\"428,585,669,829\" style=\"outline:none;\" target=\"_self\">\n<area alt=\"\" title=\"Treasure Valley Farm Home Page\" href=\"https://treasurevalleyfarm.com\" shape=\"rect\" coords=\"258,61,563,166\" style=\"outline:none;\" target=\"_self\">\n<area alt=\"\" title=\"Treasure Valley CBD Home Page\" href=\"https://treasurevalleyfarm.com\" shape=\"rect\" coords=\"258,951,563,1056\" style=\"outline:none;\" target=\"_self\">\n<area shape=\"rect\" coords=\"814,1054,816,1056\" alt=\"Image Map\" style=\"outline:none;\" title=\"Image Map\" href=\"http://www.image-maps.com/index.php?aff=mapped_users_0\">\n</map>\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-38",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {

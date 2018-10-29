@@ -3691,6 +3691,12 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+#custom-html-38 {
+  /* Type valid CSS here */
+}
+#custom-html-38 .my-image {
+  width: 100%;
+}
 .cid-qYe3RUCnLR {
   padding-top: 90px;
   padding-bottom: 90px;
